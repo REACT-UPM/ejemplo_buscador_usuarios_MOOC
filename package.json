@@ -9,8 +9,8 @@
   "info": {
     "githubURL": "IWEB-UPM/ejemplo_buscador_usuarios",
     "serverUrl": "https://aat.dit.upm.es/",
-    "courseId": "396",
-    "assignmentId": "8514"
+    "courseId": "139",
+    "assignmentId": "266"
   },
   "scripts": {
     "dev": "vite",
