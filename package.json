@@ -5,7 +5,7 @@
   "type": "module",
   "disableHashCheck": false,
   "usejest": true,
-  "devLogs": true,
+  "devLogs": false,
   "info": {
     "githubURL": "REACT-UPM/P1_el_tiempo_MOOC",
     "serverUrl": "https://moocbot.dit.upm.es/",
