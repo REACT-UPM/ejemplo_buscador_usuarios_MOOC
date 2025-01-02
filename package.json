@@ -7,8 +7,8 @@
   "usejest": true,
   "devLogs": true,
   "info": {
-    "githubURL": "IWEB-UPM/ejemplo_buscador_usuarios",
-    "serverUrl": "https://aat.dit.upm.es/",
+    "githubURL": "REACT-UPM/P1_el_tiempo_MOOC",
+    "serverUrl": "https://moocbot.dit.upm.es/",
     "courseId": "139",
     "assignmentId": "266"
   },
