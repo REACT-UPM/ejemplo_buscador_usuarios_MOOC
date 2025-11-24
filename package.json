@@ -9,8 +9,8 @@
   "info": {
     "githubURL": "REACT-UPM/P1_el_tiempo_MOOC",
     "serverUrl": "https://moocbot.dit.upm.es/",
-    "courseId": "139",
-    "assignmentId": "266"
+    "courseId": "348",
+    "assignmentId": "162"
   },
   "scripts": {
     "dev": "vite",
